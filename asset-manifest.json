@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://ashar-ahmed11.github.io/csb-9ml40q/static/css/main.2dac77a6.css",
+    "main.js": "https://ashar-ahmed11.github.io/csb-9ml40q/static/js/main.05e68bec.js",
+    "index.html": "https://ashar-ahmed11.github.io/csb-9ml40q/index.html",
+    "main.2dac77a6.css.map": "https://ashar-ahmed11.github.io/csb-9ml40q/static/css/main.2dac77a6.css.map",
+    "main.05e68bec.js.map": "https://ashar-ahmed11.github.io/csb-9ml40q/static/js/main.05e68bec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dac77a6.css",
+    "static/js/main.05e68bec.js"
+  ]
+}
